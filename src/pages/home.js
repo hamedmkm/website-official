@@ -2,8 +2,6 @@ import React from "react";
 import { RememberList } from "../components/remember";
 import  {rememberService} from '../components/remember'
 
-
-
 export class Homepage extends React.Component{
 
 
